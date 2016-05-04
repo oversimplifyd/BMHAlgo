@@ -9,7 +9,7 @@ How to Use:
 
 substring_search("test", "this is tested working test");
 
-substring_search(["ab", car"], "Which car is Abraham driving out today, why don't you use a cab"); 
+substring_search(["ab", car"], "Which car is Abraham driving out today? Why don't you use a cab"); 
 
 
 
